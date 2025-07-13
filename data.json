@@ -1,0 +1,30 @@
+{
+  "Education": [
+    "Student at Silicon University , Bhubaneswar - CGPA: 8.79",
+    "12th from Star International School , Ranchi - 92%" ,
+    "10th from DAV Bariatu , Ranchi - 96% "
+  ],
+  "Projects": [
+    " SayNShop : Movie Booking Website (MERN) - https://github.com/iamkrvishal07/SayNShop/",        
+    " BakBak : Chat Application (MERN) - https://github.com/iamkrvishal07/BakBak-Chat-Application/",
+    " JustTix : Movie Booking Website (MERN) - https://github.com/iamkrvishal07/JustTix/"
+  ],
+  "Skills": [
+    "Languages: JavaScript , C, Java " ,
+    "Frontend: React.js, HTML, CSS, Bootstrap, Tailwind  ",
+    "Backend & Database: Node.js, Express.js, MongoDB, PostgreSQL (basic), RESTful APIs" ,
+    "Tools: Git, Linux, Windows, VS Code, Postman "  ,
+    "UI/UX: Figma,Adobe Photoshop, Canva"
+  ],
+
+  "Achievements": [
+    "Secured 2nd prize in the Apti Test 2025, organized by TIME Institute in association with Silicon University",
+    "Achieved 3rd place in the Software Sprint 2024, organized by the Department of CSE, Silicon University",
+    "Ranked 4th out of 33 teams in the Smart India Hackathon 2023 Internal Hackathon"
+  ],
+  "Contact": [
+    "Email - iamkrvishal07@gmail.com",
+    "LinkedIn - https://linkedin.com/in/iamkrvishal07",
+    "GitHub - https://github.com/iamkrvishal07"
+  ]
+}

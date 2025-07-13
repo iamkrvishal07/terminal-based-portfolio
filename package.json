@@ -1,0 +1,17 @@
+{
+  "name": "iamkrvishal07",                
+  "version": "1.0.0",
+  "description": "Terminal portfolio for Vishal Kumar",
+  "main": "index.js",
+  "bin": {
+    "iamkrvishal07": "./index.js"        
+  },
+  "keywords": ["portfolio", "cli", "terminal", "npx", "vishal", "developer"],
+  "author": "Vishal Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0",
+    "inquirer": "^8.0.0"
+  }
+}
